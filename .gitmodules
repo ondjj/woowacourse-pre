@@ -2,3 +2,7 @@
 	path = baseball
 	url = https://github.com/ondjj/java-baseball-6.git
 	branch = main
+[submodule "racingcar"]
+	path = racingcar
+	url = https://github.com/ondjj/java-racingcar-6.git
+	branch = main
