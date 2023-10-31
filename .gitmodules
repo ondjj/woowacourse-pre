@@ -1,0 +1,4 @@
+[submodule "baseball"]
+	path = baseball
+	url = https://github.com/ondjj/java-baseball-6.git
+	branch = main
