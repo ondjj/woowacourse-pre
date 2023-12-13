@@ -6,3 +6,7 @@
 	path = racingcar
 	url = https://github.com/ondjj/java-racingcar-6.git
 	branch = main
+[submodule "lotto"]
+	path = lotto
+	url = https://github.com/ondjj/java-lotto-6.git
+	branch = main
