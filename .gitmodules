@@ -10,3 +10,7 @@
 	path = lotto
 	url = https://github.com/ondjj/java-lotto-6.git
 	branch = main
+[submodule "chrismas"]
+	path = chrismas
+	url = https://github.com/ondjj/java-chrismas-6-ondjj.git
+	branch = main
